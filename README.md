@@ -44,6 +44,19 @@ This submission includes the complete website structure with 5 HTML pages and an
 - Created basic site structure
 
 ## References
-[Add your references here using your institution's referencing style. Example: APA, Harvard]
-1. Source 1
-2. Source 2
+Atlassian, 2024. Project Planning: How to Plan a Project. Available at: 
+https://www.atlassian.com/work-management/project-management/project-planning 
+(Accessed: 10 August 2026). 
+Chaffey, D. and Ellis-Chadwick, F., 2022. Digital Marketing: Strategy, Implementation and 
+Practice. 8th ed. Harlow: Pearson. 
+Domains.co.za, 2026. Domain Registration and Web Hosting. Available at: 
+https://www.domains.co.za/ (Accessed: 10 August 2026). 
+Google, 2025. Creating Helpful, Reliable, People-First Content. Available at: 
+https://developers.google.com/search/docs/fundamentals/creating-helpful-content?  
+(Accessed: 7 August 2026). 
+Google, 2025. Google Search Essentials. Available at: 
+https://developers.google.com/search/docs/essentials? (Accessed: 8 August 2026). 
+Git, 2026. Git Documentation. Available at: https://git-scm.com/docs (Accessed: 10 August 
+2026). 
+MDN Web Docs, 2025. Web Technologies. Available at: https://developer.mozilla.org/en
+US/docs/Web (Accessed: 10 August 2026).
