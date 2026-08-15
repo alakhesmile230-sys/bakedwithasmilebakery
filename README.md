@@ -257,7 +257,224 @@ Regular Git commits will be made throughout the development process to document 
 
 
 ## Part 1 Details
-This submission includes the complete website structure with 5 HTML pages and an images folder. Part 2 and Part 3 will include CSS styling, JavaScript functionality, and deployment improvements.
+Yes. **The version above can be pasted directly into your `README.md` file.** However, because GitHub uses Markdown formatting, I recommend using the version below as your final copy.
+
+# Part 1 Details – Building the Foundation
+
+Part 1 focuses on planning and establishing the HTML foundation of the **Baked with a Smile Bakery** website. The purpose of this stage is to create a clear website structure, gather relevant content, organise project files and prepare the website for future CSS and JavaScript development.
+
+## 1. Project Initiation and Planning
+
+* **Target Organisation:** Baked with a Smile Bakery.
+* **Target Audience:** Local customers, families, individuals, event planners and customers looking for cakes, baked goods and catering services.
+* Define the website goals and objectives.
+* Identify the required website pages and functionality.
+* Develop the Website Project Proposal.
+* Create the website sitemap.
+* Develop low-fidelity wireframes to plan the layout and information hierarchy.
+
+## 2. Content Research and Sourcing
+
+Relevant content will be researched and prepared for each webpage. This will include:
+
+* Bakery background and introduction.
+* Mission and vision statements.
+* Bakery values.
+* Products and services.
+* Product descriptions.
+* Contact information.
+* Business hours.
+* Bakery locations.
+* Enquiry information.
+* Images and other website assets.
+
+Images and other resources will be sourced legally from appropriate sources, with attribution provided where required.
+
+## 3. Website Pages
+
+The website will consist of five main HTML webpages.
+
+### 3.1 Home – `index.html`
+
+The Home page will introduce Baked with a Smile Bakery and provide a welcoming first impression.
+
+The page will include:
+
+* Bakery logo and name.
+* Navigation menu.
+* Hero section.
+* Main headline and sub-headline.
+* Short bakery introduction.
+* Featured products.
+* “Why Choose Us?” section.
+* Call-to-action buttons.
+* Footer.
+
+### 3.2 About Us – `about.html`
+
+The About Us page will provide information about the bakery and its identity.
+
+The page will include:
+
+* Bakery introduction.
+* Bakery history.
+* Mission statement.
+* Vision statement.
+* Core values.
+* Team information.
+* Bakery photographs.
+* Footer.
+
+### 3.3 Products – `products.html`
+
+The Products page will display the bakery's products and services.
+
+Product categories will include:
+
+* Cakes.
+* Cupcakes.
+* Bread.
+* Pastries.
+* Cookies and treats.
+* Custom cakes.
+* Catering services.
+
+Each product will contain relevant information such as its name, image, description and price or price-on-request.
+
+### 3.4 Enquiry – `enquiry.html`
+
+The Enquiry page will allow customers to submit questions and requests.
+
+The enquiry form will include:
+
+* Full name.
+* Email address.
+* Telephone number.
+* Enquiry type.
+* Product or service required.
+* Preferred date.
+* Quantity.
+* Special requirements.
+* Additional message.
+* Submit button.
+
+### 3.5 Contact – `contact.html`
+
+The Contact page will provide customers with information about how to contact and visit the bakery.
+
+The page will include:
+
+* Telephone number.
+* Email address.
+* Business hours.
+* Social media links.
+* First bakery location.
+* Second bakery location.
+* Maps.
+* Directions.
+* Contact form.
+
+## 4. HTML Development
+
+The website will be developed using **HTML5** to create the structure and content of each webpage. Appropriate semantic HTML5 elements will be used, including `<header>`, `<nav>`, `<main>`, `<section>`, `<article>` and `<footer>`. These elements will provide a logical structure and support accessibility and usability (W3C, 2024).
+
+The webpages will include appropriate:
+
+* Headings.
+* Paragraphs.
+* Lists.
+* Images.
+* Hyperlinks.
+* Forms.
+* Buttons.
+* Navigation elements.
+
+Comments will also be included in the HTML code to explain important sections of the implementation.
+
+## 5. Website Navigation
+
+A consistent navigation menu will be used throughout the website:
+
+**Home | About Us | Products | Enquiry | Contact**
+
+Each navigation link will connect to the correct HTML page. The navigation system will be tested to ensure that users can move between all five webpages easily.
+
+## 6. File and Folder Organisation
+
+The website will use a clear and logical file and folder structure:
+
+```text
+Baked-with-a-Smile-Bakery/
+│
+├── index.html
+├── about.html
+├── products.html
+├── enquiry.html
+├── contact.html
+│
+├── css/
+├── js/
+├── images/
+└── README.md
+```
+
+The **HTML files** will contain the website structure, the **CSS folder** will be used for styling in Part 2, the **JavaScript folder** will be used for functionality in Part 3, and the **images folder** will contain the visual assets used throughout the website.
+
+## 7. Testing and Debugging
+
+The website will be tested throughout the development process to ensure that:
+
+* All five webpages open correctly.
+* Navigation links function correctly.
+* Images display correctly.
+* Content is relevant and easy to read.
+* HTML elements are correctly structured.
+* Code is properly indented and readable.
+* HTML errors are identified and corrected.
+* The website works correctly across different web browsers.
+
+## 8. Git and GitHub Version Control
+
+Git and GitHub will be used to manage and track the development of the website. The project will be maintained in the private GitHub repository provided by the lecturer.
+
+The development process will include:
+
+* Creating the project repository.
+* Making regular commits.
+* Using descriptive commit messages.
+* Pushing updates to the remote GitHub repository.
+* Maintaining the project documentation.
+* Updating the changelog as the website develops.
+
+Using version control will provide a record of the project's development and allow changes to be tracked over time (Git, 2026).
+
+## 9. Part 1 Deliverables
+
+The following deliverables will be completed for Part 1:
+
+* Website Project Proposal.
+* Content research and sourcing documentation.
+* Sitemap.
+* Low-fidelity wireframes.
+* Five HTML webpages.
+* Organised file and folder structure.
+* Functional navigation system.
+* HTML comments.
+* Readable and properly structured HTML code.
+* Private GitHub repository.
+* Project documentation.
+* Changelog.
+* GitHub repository link.
+* Harvard-referenced sources.
+
+## References
+
+Git, 2026. *Git Documentation*. Available at: [https://git-scm.com/docs](https://git-scm.com/docs) (Accessed: 15 August 2026).
+
+World Wide Web Consortium (W3C), 2024. *Web Content Accessibility Guidelines (WCAG) 2.2*. Available at: [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/) (Accessed: 15 August 2026).
+
+**Yes — this is Markdown-compatible and can be pasted directly into your `README.md`.**
+
 
 ## Sitemap
 - index.html - Home Page
