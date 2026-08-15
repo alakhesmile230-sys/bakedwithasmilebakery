@@ -48,7 +48,7 @@ business.
 content and consistent design so visitors can find information efficiently. Usability and 
 accessibility should be considered together when developing an inclusive website 
 (W3C, 2024). 
--**Improve accessibility***: Use appropriate headings, descriptive links, alternative text for 
+-**Improve accessibility**: Use appropriate headings, descriptive links, alternative text for 
 images, readable content and accessible forms. These practices support the principles 
 of the Web Content Accessibility Guidelines (WCAG), which focus on making web 
 content perceivable, operable, understandable and robust (W3C, 2026). 
