@@ -72,14 +72,275 @@ The website will therefore include:
 - Mobile-friendly content structure.
 - Relevant and useful product information.
 - Search-engine-friendly page titles and content.
+- 
 ## Key Features and Functionality
 
 
 ## Timeline and Milestones
-- **Week 1**: Project planning and design
-- **Week 2**: HTML structure for all 5 pages
-- **Week 3**: Add images and CSS styling
-- **Week 4**: Testing, README, and final submission
+## Key Features and Functionality
+
+The Baked with a Smile Bakery website will provide customers with an informative, accessible and user-friendly platform. The website will consist of five main webpages, with each page serving a specific purpose. The design will follow modern web standards and provide useful content that supports the bakery's business objectives (Google, 2025; W3C, 2024).
+
+### 1. Homepage - index.html
+
+The homepage will introduce the bakery and encourage visitors to explore the website.
+
+#### Features:
+- Bakery logo and business name.
+- Consistent navigation menu.
+- Hero section with a high-quality bakery image.
+- Short welcome message.
+- Introduction to the bakery's products and services.
+- Featured or popular products.
+- Promotional or seasonal offers.
+- Clear call-to-action buttons such as "View Our Products" and "Make an Enquiry".
+- Business contact information.
+- Footer containing important links and social media information.
+
+The homepage will use clear headings and relevant content to help visitors understand the purpose of the website quickly (Google, 2025).
+
+## 2. About Us - about.html
+
+The About Us page will provide information that introduces the bakery and builds customer trust.
+
+### Content:
+- History and background of Smile & Crumb Bakery.
+- Mission statement.
+- Vision statement.
+- Core business values.
+- Information about the bakery team.
+- Commitment to quality and customer service.
+- Short description of the bakery's products and services.
+
+Providing clear information about an organisation can help users understand its purpose and build confidence in the business (Google, 2025).
+
+## 3. Products - products.html
+
+The Products page will showcase the bakery's products in organised categories.
+
+### Categories:
+1. Cakes
+2. Cupcakes
+3. Bread
+4. Pastries
+5. Cookies
+6. Custom cakes
+
+Each product will include a name, description, image and price where applicable. Images will include alternative text to support accessibility (W3C, 2024).
+
+## 4. Enquiry - enquiry.html
+
+The Enquiry page will provide customers with a convenient method of contacting the bakery about products and services.
+
+### The enquiry form will contain:
+- Full name.
+- Email address.
+- Telephone number.
+- Enquiry type.
+- Product or service required.
+- Preferred collection date.
+- Number of items required.
+- Additional requirements.
+- Message field.
+- Submit button.
+
+The form will use appropriate labels and input types to improve accessibility and usability (W3C, 2024).
+
+### Possible enquiry types include:
+- General enquiry.
+- Custom cake enquiry.
+- Catering enquiry.
+- Product availability.
+- Event order.
+- Other.
+
+The enquiry page will allow the bakery to receive structured customer requests and provide a foundation for future online ordering functionality.
+
+## 5. Contact - contact.html
+
+The Contact page will provide customers with information needed to communicate with the bakery.
+
+### The page will include:
+- Bakery telephone number.
+- Email address.
+- Operating hours.
+- Two physical bakery locations.
+- Address information for each location.
+- Map for each location.
+- Contact form.
+- Social media links.
+- Directions or location information.
+
+Providing clear contact and location information can improve the usefulness of a business website and help customers access the organisation more easily (Google, 2025).
+
+## 6. Navigation
+
+Regular Git commits will be made throughout the development process to document progress and maintain a history of changes (Git, 2026).
+
+### Navigation links:
+1. Home
+2. About Us
+3. Products
+4. Enquiry
+5. Contact
+
+The navigation will be consistent across all pages to improve usability.
+
+## 6. Navigation
+
+Regular Git commits will be made throughout the development process to document progress and maintain a history of changes (Git, 2026).
+
+### Navigation links:
+1. Home
+2. About Us
+3. Products
+4. Enquiry
+5. Contact
+
+### Navigation Guidelines:
+- Use descriptive link names.
+- Remain consistent across pages.
+- Allow users to return to the homepage easily.
+- Clearly indicate the current page where appropriate.
+- Use working HTML hyperlinks between all pages.
+
+Clear and descriptive navigation supports usability and helps users locate information efficiently (W3C, 2024).
+
+
+
+
+On Sat, 15 Aug 2026, 14:52 Amila Smile, <amilasmile230@gmail.com> wrote:
+## Key Features and Functionality
+
+The Baked with a Smile Bakery website will provide customers with an informative, accessible and user-friendly platform. The website will consist of five main webpages, with each page serving a specific purpose. The design will follow modern web standards and provide useful content that supports the bakery's business objectives (Google, 2025; W3C, 2024).
+
+### 1. Homepage - index.html
+
+The homepage will introduce the bakery and encourage visitors to explore the website.
+
+#### Features:
+- Bakery logo and business name.
+- Consistent navigation menu.
+- Hero section with a high-quality bakery image.
+- Short welcome message.
+- Introduction to the bakery's products and services.
+- Featured or popular products.
+- Promotional or seasonal offers.
+- Clear call-to-action buttons such as "View Our Products" and "Make an Enquiry".
+- Business contact information.
+- Footer containing important links and social media information.
+
+The homepage will use clear headings and relevant content to help visitors understand the purpose of the website quickly (Google, 2025).
+
+## 2. About Us - about.html
+
+The About Us page will provide information that introduces the bakery and builds customer trust.
+
+### Content:
+- History and background of Smile & Crumb Bakery.
+- Mission statement.
+- Vision statement.
+- Core business values.
+- Information about the bakery team.
+- Commitment to quality and customer service.
+- Short description of the bakery's products and services.
+
+Providing clear information about an organisation can help users understand its purpose and build confidence in the business (Google, 2025).
+
+## 3. Products - products.html
+
+The Products page will showcase the bakery's products in organised categories.
+
+### Categories:
+1. Cakes
+2. Cupcakes
+3. Bread
+4. Pastries
+5. Cookies
+6. Custom cakes
+
+Each product will include a name, description, image and price where applicable. Images will include alternative text to support accessibility (W3C, 2024).
+
+## 4. Enquiry - enquiry.html
+
+The Enquiry page will provide customers with a convenient method of contacting the bakery about products and services.
+
+### The enquiry form will contain:
+- Full name.
+- Email address.
+- Telephone number.
+- Enquiry type.
+- Product or service required.
+- Preferred collection date.
+- Number of items required.
+- Additional requirements.
+- Message field.
+- Submit button.
+
+The form will use appropriate labels and input types to improve accessibility and usability (W3C, 2024).
+
+### Possible enquiry types include:
+- General enquiry.
+- Custom cake enquiry.
+- Catering enquiry.
+- Product availability.
+- Event order.
+- Other.
+
+The enquiry page will allow the bakery to receive structured customer requests and provide a foundation for future online ordering functionality.
+
+## 5. Contact - contact.html
+
+The Contact page will provide customers with information needed to communicate with the bakery.
+
+### The page will include:
+- Bakery telephone number.
+- Email address.
+- Operating hours.
+- Two physical bakery locations.
+- Address information for each location.
+- Map for each location.
+- Contact form.
+- Social media links.
+- Directions or location information.
+
+Providing clear contact and location information can improve the usefulness of a business website and help customers access the organisation more easily (Google, 2025).
+
+## 6. Navigation
+
+Regular Git commits will be made throughout the development process to document progress and maintain a history of changes (Git, 2026).
+
+### Navigation links:
+1. Home
+2. About Us
+3. Products
+4. Enquiry
+5. Contact
+
+The navigation will be consistent across all pages to improve usability.
+
+## 6. Navigation
+
+Regular Git commits will be made throughout the development process to document progress and maintain a history of changes (Git, 2026).
+
+### Navigation links:
+1. Home
+2. About Us
+3. Products
+4. Enquiry
+5. Contact
+
+### Navigation Guidelines:
+- Use descriptive link names.
+- Remain consistent across pages.
+- Allow users to return to the homepage easily.
+- Clearly indicate the current page where appropriate.
+- Use working HTML hyperlinks between all pages.
+
+Clear and descriptive navigation supports usability and helps users locate information efficiently (W3C, 2024).
+
+
+
 
 ## Part 1 Details
 This submission includes the complete website structure with 5 HTML pages and an images folder. Part 2 and Part 3 will include CSS styling, JavaScript functionality, and deployment improvements.
