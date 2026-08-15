@@ -457,7 +457,7 @@ The following deliverables will be completed for Part 1:
 * Sitemap.
 * Low-fidelity wireframes.
 * Five HTML webpages.
-* Organised file and folder structure.
+* Organized file and folder structure.
 * Functional navigation system.
 * HTML comments.
 * Readable and properly structured HTML code.
@@ -465,23 +465,32 @@ The following deliverables will be completed for Part 1:
 * Project documentation.
 * Changelog.
 * GitHub repository link.
-* Harvard-referenced sources.
-
-## References
-
-Git, 2026. *Git Documentation*. Available at: [https://git-scm.com/docs](https://git-scm.com/docs) (Accessed: 15 August 2026).
-
-World Wide Web Consortium (W3C), 2024. *Web Content Accessibility Guidelines (WCAG) 2.2*. Available at: [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/) (Accessed: 15 August 2026).
-
-**Yes — this is Markdown-compatible and can be pasted directly into your `README.md`.**
+* Harvard-referenced source
 
 
 ## Sitemap
+
+The sitemap provides a clear visual representation of the structure and hierarchy of the **Baked with a Smile Bakery** website. It shows the main webpages and how they are connected through the website's navigation system. The sitemap will guide the development of the HTML pages and help ensure that users can navigate the website easily (W3C, 2024).
+
+## Website Sitemap
+
+```text
+                    BAKED WITH A SMILE BAKERY
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+           HOME           ABOUT US         PRODUCTS
+       index.html        about
+```
+
+
+
 - index.html - Home Page
 - aboutus.html - About Us
 - products.html - Products Menu
 - gallery.html - Photo Gallery
-- contactus.html - Contact Information
+- contactus.html - Contact
+  
 
 ## Changelog
 **v1.0 - 14 Aug 2026**
@@ -490,4 +499,28 @@ World Wide Web Consortium (W3C), 2024. *Web Content Accessibility Guidelines (WC
 - Created basic site structure
 
 ## References
+
+## 8. Reference List
+
+Atlassian, 2024. *Project Planning: How to Plan a Project*. Available at: https://www.atlassian.com/work-management/project-management/project-planning (Accessed: 10 August 2026).
+
+Chaffey, D. and Ellis-Chadwick, F., 2022. *Digital Marketing: Strategy, Implementation and Practice*. 8th ed. Harlow: Pearson.
+
+Domains.co.za, 2026. *Domain Registration and Web Hosting*. Available at: https://www.domains.co.za/ (Accessed: 10 August 2026).
+
+Google, 2025. *Creating Helpful, Reliable, People-First Content*. Available at: https://developers.google.com/search/docs/fundamentals/creating-helpful-content (Accessed: 7 August 2026).
+
+Google, 2025. *Google Search Essentials*. Available at: https://developers.google.com/search/docs/essentials (Accessed: 8 August 2026).
+
+Git, 2026. *Git Documentation*. Available at: https://git-scm.com/doc (Accessed: 10 August 2026).
+
+MDN Web Docs, 2025. *Web Technologies*. Available at: https://developer.mozilla.org/en-US/docs/Web (Accessed: 10 August 2026).
+
+World Wide Web Consortium (W3C), 2024. *Web Accessibility: Removing Barriers, Designing a Web for Everyone*. Available at: https://www.w3.org/WAI/fundamentals/accessibility-intro/ (Accessed: 7 August 2026).
+
+World Wide Web Consortium (W3C), 2024. *Web Content Accessibility Guidelines (WCAG) 2.2*. Available at: https://www.w3.org/TR/WCAG22/ (Accessed: 10 August 2026).
+
+World Wide Web Consortium (W3C), 2025. *WCAG 2 Overview*. Available at: https://www.w3.org/WAI/standards-guidelines/wcag/ (Accessed: 7 August 2026).
+
+xneelo, 2026. *Domains and Web Hosting*. Available at: https://www.xneelo.co.za/ (Accessed: 10 August 2026).
 
