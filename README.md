@@ -72,7 +72,7 @@ The website will therefore include:
 - Mobile-friendly content structure.
 - Relevant and useful product information.
 - Search-engine-friendly page titles and content.
-- 
+  
 ## Key Features and Functionality
 
 The Baked with a Smile Bakery website will provide customers with an informative, accessible and user-friendly platform. The website will consist of five main webpages, with each page serving a specific purpose. The design will follow modern web standards and provide useful content that supports the bakery's business objectives (Google, 2025; W3C, 2024).
