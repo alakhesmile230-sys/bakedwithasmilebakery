@@ -5,13 +5,26 @@
 **Student Number**:ST10538125
 
 ## Project Overview
-Baked With A Smile Bakery is a responsive website designed to showcase a local bakery's products and services. The website allows customers to view the menu, learn about the bakery, see a gallery, and contact the business for orders and catering. The goal is to create an inviting online presence that increases customer engagement.
+The Baked with a Smile Bakery provides high-quality baked goods using fresh ingredients, 
+traditional baking techniques and excellent customer service. Although the business primarily 
+serves customers through its physical store, it plans to expand its online presence by 
+developing a professional website that is informative, visually appealing and easy to navigate.
+
+The Baked with a Smile Bakery Website Project focuses on planning and developing a 
+professional website for a fictional bakery. The website will provide customers with convenient 
+access to information about the bakery, products, services and contact details, helping to 
+improve its online presence and customer communication (Chaffey and Ellis-Chadwick, 2022).
+
+• Mission Statement 
+To provide freshly baked, high-quality products that bring happiness to every customer while 
+delivering exceptional service and creating memorable experiences for every occasion. 
+
+• Vision Statement 
+To become one of South Africa's most recognised neighbourhood bakeries by combining 
+traditional baking with modern technology and outstanding customer service.
 
 ## Website Goals and Objectives
-- **Goal 1**: Showcase bakery products with high-quality images
-- **Goal 2**: Provide clear contact information and location details
-- **Goal 3**: Create an easy-to-navigate website for potential customers
-- **Objective**: Increase online visibility and drive in-store orders
+ 
 
 ## Key Features and Functionality
 - **Home Page**: Welcome message with featured products
