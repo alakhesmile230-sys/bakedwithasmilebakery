@@ -15,17 +15,17 @@ professional website for a fictional bakery. The website will provide customers 
 access to information about the bakery, products, services and contact details, helping to 
 improve its online presence and customer communication (Chaffey and Ellis-Chadwick, 2022).
 
-• Mission Statement 
+## Mission Statement 
 To provide freshly baked, high-quality products that bring happiness to every customer while 
 delivering exceptional service and creating memorable experiences for every occasion. 
 
-• Vision Statement 
+## Vision Statement 
 To become one of South Africa's most recognised neighbourhood bakeries by combining 
 traditional baking with modern technology and outstanding customer service.
 
 ## Website Goals and Objectives
 
-#Website Goal 
+## Website Goal 
 The primary goal of the Baked with a Smile Bakery Website Project is to establish a professional 
 online presence that allows customers to easily access information about the bakery, its 
 products, services, locations and contact details. The website will also aim to increase 
@@ -33,22 +33,22 @@ customer engagement and generate enquiries through a clear and accessible online
 Accessibility is an important consideration because websites should allow people with different 
 abilities to perceive, understand, navigate and interact with online content (W3C, 2024).
 
-#Website Objectives 
+## Website Objectives 
 The website will achieve the following objectives: 
-• Increase online visibility: Create a professional online presence that makes Smile & 
+-**Increase online visibility**: Create a professional online presence that makes Smile & 
 Crumb Bakery easier for potential customers to discover and learn about. 
-• Promote products and services: Present the bakery's cakes, breads, pastries, cupcakes, 
+-**Promote products and services**: Present the bakery's cakes, breads, pastries, cupcakes, 
 cookies and catering services using organized content and suitable images. 
-• Generate customer enquiries: Provide an online enquiry form that allows customers to 
+-**Generate customer enquiries**: Provide an online enquiry form that allows customers to 
 request information about custom cakes, catering and other bakery services. 
-• Improve customer communication: Provide clear contact information, operating hours 
+-**Improve customer communication**: Provide clear contact information, operating hours 
 and two bakery locations so customers can easily communicate with and visit the 
 business. 
-• Improve user experience: Use clear navigation, logical page structures, readable 
+-**Improve user experience**: Use clear navigation, logical page structures, readable 
 content and consistent design so visitors can find information efficiently. Usability and 
 accessibility should be considered together when developing an inclusive website 
 (W3C, 2024). 
-• Improve accessibility: Use appropriate headings, descriptive links, alternative text for 
+-**Improve accessibility***: Use appropriate headings, descriptive links, alternative text for 
 images, readable content and accessible forms. These practices support the principles 
 of the Web Content Accessibility Guidelines (WCAG), which focus on making web 
 content perceivable, operable, understandable and robust (W3C, 2026). 
