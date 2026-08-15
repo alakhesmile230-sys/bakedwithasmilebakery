@@ -15,17 +15,17 @@ professional website for a fictional bakery. The website will provide customers 
 access to information about the bakery, products, services and contact details, helping to 
 improve its online presence and customer communication (Chaffey and Ellis-Chadwick, 2022).
 
-## Mission Statement 
+-## Mission Statement 
 To provide freshly baked, high-quality products that bring happiness to every customer while 
 delivering exceptional service and creating memorable experiences for every occasion. 
 
-## Vision Statement 
+-## Vision Statement 
 To become one of South Africa's most recognised neighbourhood bakeries by combining 
 traditional baking with modern technology and outstanding customer service.
 
 ## Website Goals and Objectives
 
-## Website Goal 
+-## Website Goal 
 The primary goal of the Baked with a Smile Bakery Website Project is to establish a professional 
 online presence that allows customers to easily access information about the bakery, its 
 products, services, locations and contact details. The website will also aim to increase 
@@ -33,7 +33,7 @@ customer engagement and generate enquiries through a clear and accessible online
 Accessibility is an important consideration because websites should allow people with different 
 abilities to perceive, understand, navigate and interact with online content (W3C, 2024).
 
-## Website Objectives 
+-## Website Objectives 
 The website will achieve the following objectives: 
 -**Increase online visibility**: Create a professional online presence that makes Smile & 
 Crumb Bakery easier for potential customers to discover and learn about. 
@@ -55,12 +55,7 @@ content perceivable, operable, understandable and robust (W3C, 2026).
 
 
 ## Key Features and Functionality
-- **Home Page**: Welcome message with featured products
-- **About Us**: Bakery story and mission
-- **Products Page**: List of cakes, breads, donuts, and pastries
-- **Gallery**: Image gallery of baked goods
-- **Contact Us**: Contact form, address, and business hours
-- **Responsive Design**: Works on desktop and mobile
+
 
 ## Timeline and Milestones
 - **Week 1**: Project planning and design
