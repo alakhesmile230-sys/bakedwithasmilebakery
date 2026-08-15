@@ -75,10 +75,6 @@ The website will therefore include:
 - 
 ## Key Features and Functionality
 
-
-## Timeline and Milestones
-## Key Features and Functionality
-
 The Baked with a Smile Bakery website will provide customers with an informative, accessible and user-friendly platform. The website will consist of five main webpages, with each page serving a specific purpose. The design will follow modern web standards and provide useful content that supports the bakery's business objectives (Google, 2025; W3C, 2024).
 
 ### 1. Homepage - index.html
@@ -339,7 +335,68 @@ Regular Git commits will be made throughout the development process to document 
 
 Clear and descriptive navigation supports usability and helps users locate information efficiently (W3C, 2024).
 
+## Timeline and Milestones
+##  Timeline
 
+Baked with a Smile Bakery website will be developed in stages to ensure that planning, development and testing are completed systematically. A structured development process helps ensure that project activities are completed in the correct sequence and that progress can be monitored effectively (Atlassian, 2024).
+
+### Project Timeline
+
+#### 1. Week 1 - Project Initiation and Planning
+- Select and research the organisation.
+- Define the target audience.
+- Establish website goals and objectives.
+- Complete the project proposal.
+- Identify website requirements.
+
+#### 2. Week 2 - Research and Content Gathering
+- Research bakery products and services.
+- Gather text content and suitable images.
+- Identify legally usable images and other assets.
+- Plan content for each webpage.
+
+#### 3. Week 3 - Website Structure and Design Planning
+- Create the website sitemap.
+- Develop low-fidelity wireframes.
+- Finalise the colour scheme and typography.
+- Plan the file and folder structure.
+
+#### 4. Week 4 - HTML Development (Part 1)
+- Create the five HTML pages.
+- Add semantic HTML5 elements.
+- Add text, images, headings and links.
+#### 4. Week 4 - HTML Development (Part 1) - continued
+- Create the navigation system.
+- Add comments to the code.
+
+#### 5. Week 5 - Testing and Debugging
+- Test all navigation links.
+- Check HTML structure and errors.
+- Test the website in different browsers.
+- Check content and image display.
+- Make necessary corrections.
+
+#### 6. Week 6 - GitHub and Documentation
+- Commit and push project files to GitHub.
+- Update the README.md file.
+- Add the project changelog.
+- Check the file and folder structure.
+- Prepare Part 1 submission documentation.
+
+### Future Development
+- **Part 2**: Apply CSS styling, responsive design and visual improvements.
+- **Part 3**: Implement JavaScript functionality and interactive features.
+- **Final Stage**: Conduct complete testing, debugging and final documentation.
+
+### Key Milestones
+- **Milestone 1**: Project proposal completed and organisation approved.
+- **Milestone 2**: Research, content and assets completed.
+- **Milestone 3**: Sitemap and wireframes completed.
+- **Milestone 4**: Five HTML webpages completed and linked.
+- **Milestone 5**: Website tested and errors corrected.
+- **Milestone 6**: GitHub repository and README.md updated and Part 1 submitted.
+
+Regular Git commits will be made throughout the development process to document progress and maintain a history of changes (Git, 2026).
 
 
 ## Part 1 Details
