@@ -483,8 +483,6 @@ The sitemap provides a clear visual representation of the structure and hierarch
        index.html        about
 ```
 
-
-
 - index.html - Home Page
 - aboutus.html - About Us
 - products.html - Products Menu
@@ -493,14 +491,100 @@ The sitemap provides a clear visual representation of the structure and hierarch
   
 
 ## Changelog
-**v1.0 - 14 Aug 2026**
-- Initial commit: Added all HTML pages
-- Added images folder with product photos
-- Created basic site structure
+# Changelog
 
-## References
+The changelog records the changes, updates and improvements made to the **Baked with a Smile Bakery** website throughout the development process. It will be updated regularly after major changes are made to the project. Using a changelog helps maintain a clear record of the project's development and progress.
 
-## 8. Reference List
+## Version 0.1 – Project Initialisation
+
+* Selected **Baked with a Smile Bakery** as the target organisation.
+* Created the initial project folder.
+* Planned the five-page website structure.
+* Created the initial `README.md` documentation.
+* Established the initial project goals and objectives.
+
+## Version 0.2 – Website Planning
+
+* Created the website sitemap.
+* Planned the five main webpages:
+
+  * Home.
+  * About Us.
+  * Products.
+  * Enquiry.
+  * Contact.
+* Planned the website navigation structure.
+* Developed low-fidelity wireframes.
+* Defined the target audience and website requirements.
+
+## Version 0.3 – Content Research and Preparation
+
+* Researched information relevant to the bakery.
+* Prepared the bakery introduction and background content.
+* Developed the mission and vision statements.
+* Identified bakery products and services.
+* Prepared product descriptions.
+* Planned contact and enquiry information.
+* Identified suitable images and website assets.
+
+## Version 0.4 – HTML Structure
+
+* Created `index.html` for the Home page.
+* Created `about.html` for the About Us page.
+* Created `products.html` for the Products page.
+* Created `enquiry.html` for the Enquiry page.
+* Created `contact.html` for the Contact page.
+* Added basic HTML5 semantic structure.
+* Added headings, paragraphs, lists, images and links.
+* Added comments to explain sections of the HTML code.
+
+## Version 0.5 – Navigation
+
+* Added the main navigation menu.
+* Linked all five HTML webpages.
+* Tested navigation links.
+* Corrected any broken or incorrect links.
+* Ensured that the navigation structure is consistent across all pages.
+
+## Version 0.6 – File and Folder Organisation
+
+* Created the `css` folder for future styling.
+* Created the `js` folder for future JavaScript functionality.
+* Created the `images` folder for website images and assets.
+* Organised project files using clear and consistent naming conventions.
+
+## Version 0.7 – Testing and Debugging
+
+* Tested all five webpages.
+* Checked navigation functionality.
+* Checked images and links.
+* Reviewed HTML structure and indentation.
+* Identified and corrected errors.
+* Tested the website in different web browsers.
+
+## Version 0.8 – GitHub Version Control
+
+* Created and configured the private GitHub repository.
+* Added the initial project files.
+* Made regular commits using descriptive commit messages.
+* Pushed project updates to the remote repository.
+* Updated the `README.md` documentation.
+* Updated the changelog to record project progress.
+
+## Version 1.0 – Part 1 Completion
+
+* Completed the Part 1 HTML foundation.
+* Completed all five required webpages.
+* Finalised website navigation.
+* Completed the sitemap and wireframes.
+* Finalised the project file and folder structure.
+* Completed testing and debugging.
+* Updated project documentation.
+* Updated the changelog.
+* Prepared the project for Part 2 CSS development.
+
+
+## Reference List
 
 Atlassian, 2024. *Project Planning: How to Plan a Project*. Available at: https://www.atlassian.com/work-management/project-management/project-planning (Accessed: 10 August 2026).
 
