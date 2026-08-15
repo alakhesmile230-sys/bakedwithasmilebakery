@@ -43,7 +43,35 @@ The website will achieve the following objectives:
 - **Improve user experience**: Use clear navigation, logical page structures, readable content and consistent design so visitors can find information efficiently. Usability and accessibility should be considered together when developing an inclusive website (W3C, 2024).
 - **Improve accessibility**: Use appropriate headings, descriptive links, alternative text for images, readable content and accessible forms. These practices support the principles of the Web Content Accessibility Guidelines (WCAG), which focus on making web content perceivable, operable, understandable and robust (W3C, 2026)
 
+## Website Success Metrics & KPIs
 
+The success of the website will be measured using the following KPIs:
+- Number of website visitors.
+- Number of completed online enquiries.
+- Number of custom cake enquiries.
+- Number of catering enquiries.
+- Number of visitors viewing the Products page.
+- Number of customers using the Contact page.
+- Website usability and accessibility testing results.
+
+These KPIs will provide measurable indicators for evaluating whether the website is achieving its intended organizational objectives.
+
+## Opportunities for Improvement
+
+The proposed website provides an opportunity to address these weaknesses by creating a central online platform for Smile & Crumb Bakery. The website will allow customers to browse products, learn about the organization, submit enquiries and locate the bakery's branches.
+
+The website can also improve accessibility by following the **Web Content Accessibility Guidelines (WCAG) 2.2**. WCAG 2.2 provides recommendations for making web content accessible to people with different disabilities and applies across desktop, mobile and other devices (W3C, 2024).
+
+The website will therefore include:
+- Clear and consistent navigation.
+- Descriptive page headings.
+- Alternative text for meaningful images.
+- Accessible enquiry and contact forms.
+- Readable text and sufficient colour contrast.
+- Clear links and call-to-action buttons.
+- Mobile-friendly content structure.
+- Relevant and useful product information.
+- Search-engine-friendly page titles and content.
 ## Key Features and Functionality
 
 
