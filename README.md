@@ -73,6 +73,7 @@ The website will therefore include:
 - Relevant and useful product information.
 - Search-engine-friendly page titles and content.
   
+  
 ## Key Features and Functionality
 
 The Baked with a Smile Bakery website will provide customers with an informative, accessible and user-friendly platform. The website will consist of five main webpages, with each page serving a specific purpose. The design will follow modern web standards and provide useful content that supports the bakery's business objectives (Google, 2025; W3C, 2024).
@@ -203,9 +204,6 @@ Regular Git commits will be made throughout the development process to document 
 Clear and descriptive navigation supports usability and helps users locate information efficiently (W3C, 2024).
 
 
-
-
-On Sat, 15 Aug 2026, 14:52 Amila Smile, <amilasmile230@gmail.com> wrote:
 ## Key Features and Functionality
 
 The Baked with a Smile Bakery website will provide customers with an informative, accessible and user-friendly platform. The website will consist of five main webpages, with each page serving a specific purpose. The design will follow modern web standards and provide useful content that supports the bakery's business objectives (Google, 2025; W3C, 2024).
