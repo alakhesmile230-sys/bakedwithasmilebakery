@@ -15,17 +15,17 @@ professional website for a fictional bakery. The website will provide customers 
 access to information about the bakery, products, services and contact details, helping to 
 improve its online presence and customer communication (Chaffey and Ellis-Chadwick, 2022).
 
--## Mission Statement 
+## Mission Statement 
 To provide freshly baked, high-quality products that bring happiness to every customer while 
 delivering exceptional service and creating memorable experiences for every occasion. 
 
--## Vision Statement 
+## Vision Statement 
 To become one of South Africa's most recognised neighbourhood bakeries by combining 
 traditional baking with modern technology and outstanding customer service.
 
 ## Website Goals and Objectives
 
--## Website Goal 
+## Website Goal 
 The primary goal of the Baked with a Smile Bakery Website Project is to establish a professional 
 online presence that allows customers to easily access information about the bakery, its 
 products, services, locations and contact details. The website will also aim to increase 
