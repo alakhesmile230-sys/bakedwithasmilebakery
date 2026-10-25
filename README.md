@@ -644,6 +644,24 @@ Updated the README documentation.
 Updated the references section.
 Committed and pushed the final Part 2 changes to GitHub.
 
+## Version 2.0 - Part 2 Feedback Corrections
+- Fixed external stylesheet link: `css/mystyle.css` now linked on all 6 pages.
+- Added `<meta name="viewport" content="width=device-width, initial-scale=1.0">` to all 6 pages.
+- Fixed page names to match actual files: `aboutus.html` and `contactus.html` (was `about.html` / `contact.html`).
+- Fixed layout adjustment: product grid now 3 columns desktop, 2 columns tablet (768px), 1 column mobile (480px).
+- Fixed typography adjustment: h1 2.5rem desktop -> 1.8rem tablet -> 1.5rem mobile, body 16px -> 15px mobile.
+- Improved pseudo-classes: added :hover, :focus, :active to nav, buttons, cards, and form inputs.
+
+## Version 3.0 - Part 3 Functionality and SEO
+- Added JavaScript: FAQ accordion, gallery lightbox, product search/filter, form validation.
+- Added Leaflet interactive map on Contact page (no API key needed).
+- Added SEO: unique title, meta description, meta keywords on every page.
+- Renamed all images to descriptive filenames and added descriptive alt text.
+- Added robots.txt and sitemap.xml.
+- Rebuilt enquiry form: validation + price calculator + confirmation response.
+- Rebuilt contact form: validation + mailto email generation.
+- Deployed on Netlify.
+
 ## LOW-FIDELITY WIREFRAME
 
 The low-fidelity wireframe shows the basic layout and information hierarchy of the **Baked with a Smile Bakery** website. It identifies where the navigation, headings, content, images, forms and footer will be placed before the final design is developed (Interaction Design Foundation, 2024).
