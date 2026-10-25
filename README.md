@@ -35,7 +35,7 @@ abilities to perceive, understand, navigate and interact with online content (W3
 ## Website Objectives
 The website will achieve the following objectives:
 
-- **Increase online visibility**: Create a professional online presence that makes Smile & Crumb Bakery easier for potential customers to discover and learn about.
+- **Increase online visibility**: Create a professional online presence that makes Baked with a Smile easier for potential customers to discover and learn about.
 - **Promote products and services**: Present the bakery's cakes, breads, pastries, cupcakes, cookies and catering services using organized content and suitable images.
 - **Generate customer enquiries**: Provide an online enquiry form that allows customers to request information about custom cakes, catering and other bakery services.
 - **Improve customer communication**: Provide clear contact information, operating hours and two bakery locations so customers can easily communicate with and visit the business.
@@ -57,7 +57,7 @@ These KPIs will provide measurable indicators for evaluating whether the website
 
 ## Opportunities for Improvement
 
-The proposed website provides an opportunity to address these weaknesses by creating a central online platform for Smile & Crumb Bakery. The website will allow customers to browse products, learn about the organization, submit enquiries and locate the bakery's branches.
+The proposed website provides an opportunity to address these weaknesses by creating a central online platform for Baked with a Smile Bakery. The website will allow customers to browse products, learn about the organization, submit enquiries and locate the bakery's branches.
 
 The website can also improve accessibility by following the **Web Content Accessibility Guidelines (WCAG) 2.2**. WCAG 2.2 provides recommendations for making web content accessible to people with different disabilities and applies across desktop, mobile and other devices (W3C, 2024).
 
@@ -100,7 +100,7 @@ The homepage will use clear headings and relevant content to help visitors under
 The About Us page will provide information that introduces the bakery and builds customer trust.
 
 ### Content:
-- History and background of Smile & Crumb Bakery.
+- History and background of Baked with a Smile.
 - Mission statement.
 - Vision statement.
 - Core business values.
@@ -221,6 +221,7 @@ Baked with a Smile Bakery website will be developed in stages to ensure that pla
 - Create the five HTML pages.
 - Add semantic HTML5 elements.
 - Add text, images, headings and links.
+- 
 #### 4. Week 4 - HTML Development (Part 1) - continued
 - Create the navigation system.
 - Add comments to the code.
@@ -409,7 +410,7 @@ Baked-with-a-Smile-Bakery/
 ├── products.html
 ├── enquiry.html
 ├── contact.html
-│
+
 ├── css/
 ├── js/
 ├── images/
@@ -486,6 +487,7 @@ The sitemap provides a clear visual representation of the structure and hierarch
 - products.html - Products Menu
 - gallery.html - Photo Gallery
 - contactus.html - Contact
+- enquiry.html - Orders
  
 
 ## Changelog
