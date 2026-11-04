@@ -352,3 +352,98 @@ a:hover, button:hover, .filter-btn:hover { opacity: 0.85; transform: translateY(
 a:focus, button:focus, input:focus, textarea:focus, select:focus { outline: 3px solid #FF9800; outline-offset: 2px; }
 button:active { transform: scale(0.98); }
 
+@media (max-width: 768px) {
+
+
+body {
+overflow-x: hidden;
+}
+
+
+header {
+flex-direction: column !important;
+text-align: center;
+padding: 15px 10px !important;
+height: auto !important;
+}
+
+header h1, .logo, .site-title {
+font-size: 24px !important;
+margin-bottom: 10px;
+}
+
+nav, .nav, .navbar, .menu {
+display: flex !important;
+flex-direction: column !important;
+width: 100% !important;
+gap: 8px !important;
+align-items: center;
+}
+
+nav a, .nav a, .navbar a, .menu a {
+display: block !important;
+width: 90% !important;
+text-align: center;
+padding: 10px !important;
+font-size: 16px !important;
+}
+
+
+.hero, .intro, .banner, main > div:first-child {
+padding: 20px 15px !important;
+}
+
+h1 {
+font-size: 28px !important;
+line-height: 1.2;
+}
+
+h2 {
+font-size: 24px !important;
+}
+
+p {
+font-size: 16px !important;
+line-height: 1.5;
+}
+
+
+.products, .product-grid, .product-list, .grid, .cards, .container {
+display: grid !important;
+grid-template-columns: 1fr !important;
+gap: 20px !important;
+padding: 10px !important;
+}
+
+.product, .product-card, .card, .item {
+width: 100% !important;
+max-width: 100% !important;
+margin: 0 auto !important;
+}
+
+.product img, .product-card img, .card img, .item img {
+width: 100% !important;
+height: auto !important;
+max-height: 280px !important;
+object-fit: cover;
+}
+
+
+input[type="search"], input[type="text"], select {
+width: 100% !important;
+margin-bottom: 10px !important;
+font-size: 16px !important;
+}
+
+
+.faq, .why-choose, section {
+padding: 15px !important;
+}
+
+footer {
+padding: 20px 15px !important;
+text-align: center;
+}
+}
+
+
