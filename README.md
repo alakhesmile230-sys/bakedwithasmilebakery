@@ -1,34 +1,35 @@
-bakedwithasmilebakery
-Student Information
-Name: Alakhe Smile Student Number:ST10538125
+## Bakedwithasmilebakery
+**Name:** Alakhe Smile 
+**Student Number:** ST10538125
 
-Project Overview
+## Project Overview
 The Baked with a Smile Bakery provides high-quality baked goods using fresh ingredients, traditional baking techniques and excellent customer service. Although the business primarily serves customers through its physical store, it plans to expand its online presence by developing a professional website that is informative, visually appealing and easy to navigate.
 
 The Baked with a Smile Bakery Website Project focuses on planning and developing a professional website for a fictional bakery. The website will provide customers with convenient access to information about the bakery, products, services and contact details, helping to improve its online presence and customer communication (Chaffey and Ellis-Chadwick, 2022).
 
-Mission Statement
+**Mission Statement**
 To provide freshly baked, high-quality products that bring happiness to every customer while delivering exceptional service and creating memorable experiences for every occasion.
 
-Vision Statement
+**Vision Statement**
 To become one of South Africa's most recognised neighbourhood bakeries by combining traditional baking with modern technology and outstanding customer service.
 
-Website Goals and Objectives
-Website Goal
+# Website Goals and Objectives
+**Website Goal**
 The primary goal of the Baked with a Smile Bakery Website Project is to establish a professional online presence that allows customers to easily access information about the bakery, its products, services, locations and contact details. The website will also aim to increase customer engagement and generate enquiries through a clear and accessible online platform. Accessibility is an important consideration because websites should allow people with different abilities to perceive, understand, navigate and interact with online content (W3C, 2024).
 
-Website Objectives
+**Website Objectives**
 The website will achieve the following objectives:
 
-Increase online visibility: Create a professional online presence that makes Baked with a Smile easier for potential customers to discover and learn about.
-Promote products and services: Present the bakery's cakes, breads, pastries, cupcakes, cookies and catering services using organized content and suitable images.
-Generate customer enquiries: Provide an online enquiry form that allows customers to request information about custom cakes, catering and other bakery services.
-Improve customer communication: Provide clear contact information, operating hours and two bakery locations so customers can easily communicate with and visit the business.
-Improve user experience: Use clear navigation, logical page structures, readable content and consistent design so visitors can find information efficiently. Usability and accessibility should be considered together when developing an inclusive website (W3C, 2024).
-Improve accessibility: Use appropriate headings, descriptive links, alternative text for images, readable content and accessible forms. These practices support the principles of the Web Content Accessibility Guidelines (WCAG), which focus on making web content perceivable, operable, understandable and robust (W3C, 2026)
-Website Success Metrics & KPIs
-The success of the website will be measured using the following KPIs:
+-**Increase online visibility:** Create a professional online presence that makes Baked with a Smile easier for potential customers to discover and learn about.
+-**Promote products and services:** Present the bakery's cakes, breads, pastries, cupcakes, cookies and catering services using organized content and suitable images.
+-**Generate customer enquiries:** Provide an online enquiry form that allows customers to request information about custom cakes, catering and other bakery services.
+-**Improve customer communication:** Provide clear contact information, operating hours and two bakery locations so customers can easily communicate with and visit the business.
+-**Improve user experience:** Use clear navigation, logical page structures, readable content and consistent design so visitors can find information efficiently. Usability and accessibility should be considered together when developing an inclusive website (W3C, 2024).
+-**Improve accessibility:** Use appropriate headings, descriptive links, alternative text for images, readable content and accessible forms. These practices support the principles of the Web Content Accessibility Guidelines (WCAG), which focus on making web content perceivable, operable, understandable and robust (W3C, 2026).
 
+# Website Success Metrics & KPIs
+
+**The success of the website will be measured using the following KPIs:**
 Number of website visitors.
 Number of completed online enquiries.
 Number of custom cake enquiries.
@@ -38,13 +39,12 @@ Number of customers using the Contact page.
 Website usability and accessibility testing results.
 These KPIs will provide measurable indicators for evaluating whether the website is achieving its intended organizational objectives.
 
-Opportunities for Improvement
+**Opportunities for Improvement**
 The proposed website provides an opportunity to address these weaknesses by creating a central online platform for Baked with a Smile Bakery. The website will allow customers to browse products, learn about the organization, submit enquiries and locate the bakery's branches.
 
 The website can also improve accessibility by following the Web Content Accessibility Guidelines (WCAG) 2.2. WCAG 2.2 provides recommendations for making web content accessible to people with different disabilities and applies across desktop, mobile and other devices (W3C, 2024).
 
-The website will therefore include:
-
+**The website will therefore include:**
 Clear and consistent navigation.
 Descriptive page headings.
 Alternative text for meaningful images.
@@ -57,7 +57,7 @@ Search-engine-friendly page titles and content.
 Key Features and Functionality
 The Baked with a Smile Bakery website will provide customers with an informative, accessible and user-friendly platform. The website will consist of five main webpages, with each page serving a specific purpose. The design will follow modern web standards and provide useful content that supports the bakery's business objectives (Google, 2025; W3C, 2024).
 
-1. Homepage - index.html
+**1. Homepage - index.html**
 The homepage will introduce the bakery and encourage visitors to explore the website.
 
 Features:
@@ -73,7 +73,7 @@ Business contact information.
 Footer containing important links and social media information.
 The homepage will use clear headings and relevant content to help visitors understand the purpose of the website quickly (Google, 2025).
 
-2. About Us - about.html
+**2. About Us - about.html**
 The About Us page will provide information that introduces the bakery and builds customer trust.
 
 Content:
@@ -86,7 +86,7 @@ Commitment to quality and customer service.
 Short description of the bakery's products and services.
 Providing clear information about an organisation can help users understand its purpose and build confidence in the business (Google, 2025).
 
-3. Products - products.html
+**3. Products - products.html**
 The Products page will showcase the bakery's products in organised categories.
 
 Categories:
@@ -98,7 +98,7 @@ Cookies
 Custom cakes
 Each product will include a name, description, image and price where applicable. Images will include alternative text to support accessibility (W3C, 2024).
 
-4. Enquiry - enquiry.html
+**4. Enquiry - enquiry.html**
 The Enquiry page will provide customers with a convenient method of contacting the bakery about products and services.
 
 The enquiry form will contain:
@@ -123,7 +123,7 @@ Event order.
 Other.
 The enquiry page will allow the bakery to receive structured customer requests and provide a foundation for future online ordering functionality.
 
-5. Contact - contact.html
+**5. Contact - contact.html**
 The Contact page will provide customers with information needed to communicate with the bakery.
 
 The page will include:
@@ -138,7 +138,7 @@ Social media links.
 Directions or location information.
 Providing clear contact and location information can improve the usefulness of a business website and help customers access the organization more easily (Google, 2025)
 
-6. Navigation
+**6. Navigation**
 Regular Git commits will be made throughout the development process to document progress and maintain a history of changes (Git, 2026).
 
 Navigation links:
@@ -155,11 +155,11 @@ Clearly indicate the current page where appropriate.
 Use working HTML hyperlinks between all pages.
 Clear and descriptive navigation supports usability and helps users locate information efficiently (W3C, 2024).
 
-Timeline and Milestones
+# Timeline and Milestones
 7. Timeline
 Baked with a Smile Bakery website will be developed in stages to ensure that planning, development and testing are completed systematically. A structured development process helps ensure that project activities are completed in the correct sequence and that progress can be monitored effectively (Atlassian, 2024).
 
-Project Timeline
+**Project Timeline**
 1. Week 1 - Project Initiation and Planning
 Select and research the organisation.
 Define the target audience.
@@ -208,11 +208,11 @@ Milestone 5: Website tested and errors corrected.
 Milestone 6: GitHub repository and README.md updated and Part 1 submitted.
 Regular Git commits will be made throughout the development process to document progress and maintain a history of changes (Git, 2026).
 
-Part 1 Details
+# Part 1 Details
 Part 1 Details – Building the Foundation
 Part 1 focuses on planning and establishing the HTML foundation of the Baked with a Smile Bakery website. The purpose of this stage is to create a clear website structure, gather relevant content, organise project files and prepare the website for future CSS and JavaScript development.
 
-1. Project Initiation and Planning
+**1. Project Initiation and Planning**
 Target Organisation: Baked with a Smile Bakery.
 Target Audience: Local customers, families, individuals, event planners and customers looking for cakes, baked goods and catering services.
 Define the website goals and objectives.
@@ -220,7 +220,8 @@ Identify the required website pages and functionality.
 Develop the Website Project Proposal.
 Create the website sitemap.
 Develop low-fidelity wireframes to plan the layout and information hierarchy.
-2. Content Research and Sourcing
+
+**2. Content Research and Sourcing**
 Relevant content will be researched and prepared for each webpage. This will include:
 
 Bakery background and introduction.
@@ -235,7 +236,7 @@ Enquiry information.
 Images and other website assets.
 Images and other resources will be sourced legally from appropriate sources, with attribution provided where required.
 
-3. Website Pages
+**3. Website Pages**
 The website will consist of five main HTML webpages.
 
 3.1 Home – index.html
@@ -308,7 +309,8 @@ Second bakery location.
 Maps.
 Directions.
 Contact form.
-4. HTML Development
+
+**4. HTML Development**
 The website will be developed using HTML5 to create the structure and content of each webpage. Appropriate semantic HTML5 elements will be used, including <header>, <nav>, <main>, <section>, <article> and <footer>. These elements will provide a logical structure and support accessibility and usability (W3C, 2024).
 
 The webpages will include appropriate:
@@ -323,14 +325,14 @@ Buttons.
 Navigation elements.
 Comments will also be included in the HTML code to explain important sections of the implementation.
 
-5. Website Navigation
+**5. Website Navigation**
 A consistent navigation menu will be used throughout the website:
 
 Home | About Us | Products | Enquiry | Contact
 
 Each navigation link will connect to the correct HTML page. The navigation system will be tested to ensure that users can move between all five web pages easily.
 
-6. File and Folder Organisation
+**6. File and Folder Organisation**
 The website will use a clear and logical file and folder structure:
 
 Baked-with-a-Smile-Bakery/
@@ -347,7 +349,7 @@ Baked-with-a-Smile-Bakery/
 └── README.md
 The HTML files will contain the website structure, the CSS folder will be used for styling in Part 2, the JavaScript folder will be used for functionality in Part 3, and the images folder will contain the visual assets used throughout the website.
 
-7. Testing and Debugging
+**7. Testing and Debugging**
 The website will be tested throughout the development process to ensure that:
 
 All five webpages open correctly.
@@ -371,7 +373,7 @@ Maintaining the project documentation.
 Updating the changelog as the website develops.
 Using version control will provide a record of the project's development and allow changes to be tracked over time (Git, 2026).
 
-9. Part 1 Deliverables
+**9. Part 1 Deliverables**
 The following deliverables will be completed for Part 1:
 
 Website Project Proposal.
@@ -404,10 +406,11 @@ products.html - Products Menu
 gallery.html - Photo Gallery
 contactus.html - Contact
 enquiry.html - Orders
-Changelog
-Changelog
+
+# Changelog
 The changelog records the changes, updates and improvements made to the Baked with a Smile Bakery website throughout the development process. It will be updated regularly after major changes are made to the project. Using a changelog helps maintain a clear record of the project's development and progress.
 
+**Part 1 Changelog**
 Version 0.1 – Project Initialisation
 Selected Baked with a Smile Bakery as the target organisation.
 Created the initial project folder.
@@ -482,7 +485,8 @@ Completed testing and debugging.
 Updated project documentation.
 Updated the changelog.
 Prepared the project for Part 2 CSS development.
-Part 2 Changelog
+
+**Part 2 Changelog**
 Version 1.1 – Part 1 Feedback Corrections
 Reviewed the Part 1 website structure.
 Corrected inconsistencies in page names and navigation.
@@ -524,6 +528,7 @@ Media queries were used to adapt the website layout to different viewport sizes,
 Version 1.6 – Testing and Documentation
 Tested the website on desktop screen sizes. Tested the website on tablet screen sizes. Tested the website on mobile screen sizes. Checked navigation links. Checked images and page layouts. Corrected responsive layout issues. Added screenshots showing the website at different screen sizes. Updated the README documentation. Updated the references section. Committed and pushed the final Part 2 changes to GitHub.
 
+**Part 2 Changelog**
 Version 2.0 - Part 2 Feedback Corrections
 Fixed external stylesheet link: css/mystyle.css now linked on all 6 pages.
 Added <meta name="viewport" content="width=device-width, initial-scale=1.0"> to all 6 pages.
@@ -543,7 +548,7 @@ Deployed on Netlify.
 LOW-FIDELITY WIREFRAME
 The low-fidelity wireframe shows the basic layout and information hierarchy of the Baked with a Smile Bakery website. It identifies where the navigation, headings, content, images, forms and footer will be placed before the final design is developed (Interaction Design Foundation, 2024).
 
-1. Home Page – index.html
+**1. Home Page – index.html**
 ┌──────────────────────────────────────────┐
 │ LOGO
 |   BAKED WITH A SMILE BAKERY              │
@@ -565,7 +570,7 @@ The low-fidelity wireframe shows the basic layout and information hierarchy of t
 ├──────────────────────────────────────────┤
 │                 FOOTER                   │
 └──────────────────────────────────────────┘
-2. About Us – about.html
+**2. About Us – about.html**
 ┌──────────────────────────────────────────┐
 │ LOGO | NAVIGATION                        │
 ├──────────────────────────────────────────┤
@@ -577,7 +582,7 @@ The low-fidelity wireframe shows the basic layout and information hierarchy of t
 ├──────────────────────────────────────────┤
 │                 FOOTER                   │
 └──────────────────────────────────────────┘
-3. Products – products.html
+**3. Products – products.html**
 ┌──────────────────────────────────────────┐
 │ LOGO | NAVIGATION                        │
 ├──────────────────────────────────────────┤
@@ -588,7 +593,7 @@ The low-fidelity wireframe shows the basic layout and information hierarchy of t
 ├──────────────────────────────────────────┤
 │                 FOOTER                   │
 └──────────────────────────────────────────┘
-4. Enquiry – enquiry.html
+**4. Enquiry – enquiry.html**
 ┌──────────────────────────────────────────┐
 │ LOGO | NAVIGATION                        │
 ├──────────────────────────────────────────┤
@@ -602,7 +607,7 @@ The low-fidelity wireframe shows the basic layout and information hierarchy of t
 ├──────────────────────────────────────────┤
 │                 FOOTER                   │
 └──────────────────────────────────────────┘
-5. Contact – contact.html
+**5. Contact – contact.html**
 ┌──────────────────────────────────────────┐
 │ LOGO | NAVIGATION                        │
 ├──────────────────────────────────────────┤
@@ -619,7 +624,7 @@ The low-fidelity wireframe shows the basic layout and information hierarchy of t
 Information Hierarchy
 The website will follow a consistent structure of header and navigation → page heading → main content → call-to-action/forms → footer. This creates a clear and easy-to-follow layout for users (W3C, 2024).
 
-Reference List
+## Reference List
 Atlassian, 2024. Project Planning: How to Plan a Project. Available at: https://www.atlassian.com/work-management/project-management/project-planning (Accessed: 10 August 2026).
 
 Chaffey, D. and Ellis-Chadwick, F., 2022. Digital Marketing: Strategy, Implementation and Practice. 8th ed. Harlow: Pearson.
